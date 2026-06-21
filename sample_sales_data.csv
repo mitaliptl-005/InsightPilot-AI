@@ -1,0 +1,21 @@
+OrderID,Customer,Region,Product,Category,Quantity,UnitPrice,SalesDate
+1001,John Smith,North,Laptop,Electronics,2,1200,2026-01-05
+1002,Alice Brown,South,Mouse,Electronics,5,25,2026-01-08
+1003,Bob Wilson,East,Keyboard,Electronics,3,45,2026-01-10
+1004,David Lee,West,Monitor,Electronics,2,300,2026-01-12
+1005,Sarah Davis,North,Desk,Furniture,1,450,2026-01-15
+1006,Michael Clark,South,Chair,Furniture,4,150,2026-01-18
+1007,Emma Taylor,East,Printer,Electronics,1,250,2026-01-20
+1008,James Martin,West,Tablet,Electronics,3,500,2026-01-22
+1009,Olivia White,North,Phone,Electronics,2,900,2026-01-25
+1010,Noah Harris,South,Bookshelf,Furniture,1,220,2026-01-28
+1011,Sophia Young,East,Laptop,Electronics,1,1300,2026-02-02
+1012,Liam King,West,Monitor,Electronics,2,320,2026-02-05
+1013,Ava Scott,North,Desk,Furniture,2,470,2026-02-08
+1014,William Green,South,Chair,Furniture,6,145,2026-02-10
+1015,Isabella Adams,East,Tablet,Electronics,2,520,2026-02-14
+1016,Benjamin Baker,West,Phone,Electronics,1,950,2026-02-18
+1017,Mia Nelson,North,Printer,Electronics,1,270,2026-02-20
+1018,Lucas Carter,South,Keyboard,Electronics,4,50,2026-02-22
+1019,Charlotte Perez,East,Mouse,Electronics,8,28,2026-02-25
+1020,Henry Roberts,West,Bookshelf,Furniture,2,240,2026-02-28
